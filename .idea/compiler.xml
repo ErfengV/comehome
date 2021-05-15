@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comehome-common" />
+        <module name="comehome-aboutFile" />
+        <module name="comehome-udp" />
+        <module name="comehome-swagger-aop" />
+        <module name="comehome-api" />
+        <module name="comehome-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comehome" target="1.8" />
+      <module name="comehome-aboutFile" target="1.8" />
+      <module name="comehome-api" target="1.8" />
+      <module name="comehome-common" target="1.8" />
+      <module name="comehome-domain" target="1.8" />
+      <module name="comehome-swagger-aop" target="1.8" />
+      <module name="comehome-udp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

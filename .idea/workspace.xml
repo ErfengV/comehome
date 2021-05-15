@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9a93e0d-61b9-448b-83bb-ef99a3284f53" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="comehome" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rGC0IxLucvOOz1JMpxONsALTFe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/comehome-common/src/main/java/com/ac/comehome/entity" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.redisPlugin" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\S3-YC81\acteam\comehome\comehome-api\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ac.comehome.util" />
+      <recent name="com.ac.comehome.client" />
+      <recent name="com.ac.comehome.pool" />
+      <recent name="com.ac.comehome.service" />
+      <recent name="com.ac.comehome.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\S3-YC81\acteam\comehome\comehome-common\src\main\java\com\ac\comehome\entity" />
+      <recent name="D:\S3-YC81\acteam\comehome\doc" />
+      <recent name="D:\S3-YC81\acteam\comehome\comehome-common\src\main\java\com\ac\comehome\util" />
+      <recent name="D:\S3-YC81\acteam\comehome\cloudchat\src" />
+      <recent name="D:\S3-YC81\acteam\comehome\cloudchat\src\com\ak\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ComeHomeApp">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ak.server.ChatServer" />
+      <module name="cloudchat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ak.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ac.comehome.handler.ServerTest" />
+      <module name="comehome-udp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ac.comehome.handler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChUserServiceImplTest.register" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comehome-domain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ac.comehome.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ac.comehome.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.ac.comehome.service.impl.ChUserServiceImplTest" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComeHomeApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="comehome-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ac.comehome.ComeHomeApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="comehome-domain" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ac.comehome.SpringApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringUdpApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="comehome-udp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ac.comehome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ac.comehome.SpringUdpApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerTest" />
+        <item itemvalue="Spring Boot.SpringUdpApp" />
+        <item itemvalue="Application.ChatServer" />
+        <item itemvalue="JUnit.ChUserServiceImplTest.register" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9a93e0d-61b9-448b-83bb-ef99a3284f53" name="Default Changelist" comment="" />
+      <created>1618592814353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618592814353</updated>
+      <workItem from="1618592819383" duration="36000" />
+      <workItem from="1618635261638" duration="24002000" />
+      <workItem from="1618713302368" duration="21137000" />
+      <workItem from="1618758186768" duration="1962000" />
+      <workItem from="1618806970624" duration="666000" />
+      <workItem from="1618831713422" duration="1310000" />
+      <workItem from="1618928228036" duration="624000" />
+      <workItem from="1618929208210" duration="3578000" />
+      <workItem from="1619001353508" duration="597000" />
+      <workItem from="1619004420746" duration="2525000" />
+      <workItem from="1619174641869" duration="705000" />
+      <workItem from="1619225588789" duration="513000" />
+      <workItem from="1619226133413" duration="75000" />
+      <workItem from="1619243889501" duration="875000" />
+      <workItem from="1619265648229" duration="716000" />
+      <workItem from="1619314713543" duration="356000" />
+      <workItem from="1619347741120" duration="74000" />
+      <workItem from="1619348630504" duration="695000" />
+      <workItem from="1619349469098" duration="4249000" />
+      <workItem from="1619434674329" duration="3432000" />
+      <workItem from="1619439526225" duration="487000" />
+      <workItem from="1619608699375" duration="1468000" />
+      <workItem from="1619691556173" duration="3931000" />
+      <workItem from="1620124738808" duration="2600000" />
+      <workItem from="1620179334986" duration="868000" />
+      <workItem from="1620194972717" duration="623000" />
+      <workItem from="1620211754016" duration="3174000" />
+      <workItem from="1620216866392" duration="3800000" />
+      <workItem from="1620301260960" duration="2348000" />
+      <workItem from="1620383414358" duration="7217000" />
+      <workItem from="1620390968213" duration="3171000" />
+      <workItem from="1620469295208" duration="9048000" />
+      <workItem from="1620541060135" duration="158000" />
+      <workItem from="1620544372730" duration="10083000" />
+      <workItem from="1620560454954" duration="1425000" />
+      <workItem from="1620635683278" duration="176000" />
+      <workItem from="1620815220172" duration="11180000" />
+      <workItem from="1620834933665" duration="1246000" />
+      <workItem from="1620881745520" duration="1213000" />
+      <workItem from="1621058479610" duration="10528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1620549699935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1620549699935" />
+    <state x="522" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620383694385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1620383694385" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1621062923983">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1621062923983" />
+    <state x="332" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1620549724427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="332" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1620549724427" />
+    <state x="166" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1621058616599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="166" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1621058616599" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618645441143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1618645441143" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1620550942342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1620550942342" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1618751998258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618751998258" />
+    <state width="1493" height="666" key="GridCell.Tab.0.bottom" timestamp="1620825745489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620825745489" />
+    <state width="1493" height="666" key="GridCell.Tab.0.center" timestamp="1620825745489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620825745489" />
+    <state width="1493" height="666" key="GridCell.Tab.0.left" timestamp="1620825745488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620825745488" />
+    <state width="1493" height="666" key="GridCell.Tab.0.right" timestamp="1620825745489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620825745489" />
+    <state width="1493" height="666" key="GridCell.Tab.1.bottom" timestamp="1620825745489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620825745489" />
+    <state width="1493" height="666" key="GridCell.Tab.1.center" timestamp="1620825745489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1620825745489" />
+    <state width="1493" height="666" key="GridCell.Tab.1.left" timestamp="1620825745489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1620825745489" />
+    <state width="1493" height="666" key="GridCell.Tab.1.right" timestamp="1620825745489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1620825745489" />
+    <state x="270" y="54" width="1258" height="715" key="SettingsEditor" timestamp="1619350151037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" width="1258" height="715" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619350151037" />
+    <state x="449" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1620635833867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620635833867" />
+    <state x="43" y="83" key="new project wizard" timestamp="1620474512629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="43" y="83" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1620474512629" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1620824506827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620824506827" />
+  </component>
+</project>

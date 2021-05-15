@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comehome.iml" filepath="$PROJECT_DIR$/comehome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comehome-aboutFile/comehome-aboutFile.iml" filepath="$PROJECT_DIR$/comehome-aboutFile/comehome-aboutFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comehome-api/comehome-api.iml" filepath="$PROJECT_DIR$/comehome-api/comehome-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comehome-common/comehome-common.iml" filepath="$PROJECT_DIR$/comehome-common/comehome-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comehome-domain/comehome-domain.iml" filepath="$PROJECT_DIR$/comehome-domain/comehome-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comehome-swagger-aop/comehome-swagger-aop.iml" filepath="$PROJECT_DIR$/comehome-swagger-aop/comehome-swagger-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comehome-udp/comehome-udp.iml" filepath="$PROJECT_DIR$/comehome-udp/comehome-udp.iml" />
+    </modules>
+  </component>
+</project>
