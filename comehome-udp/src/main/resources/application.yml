@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://rf:rf@www.wuzhaoqi.top:27017/ch_user
+
+logging:
+  level:
+    com.ac: debug
+
+udp.port: 8888
+
