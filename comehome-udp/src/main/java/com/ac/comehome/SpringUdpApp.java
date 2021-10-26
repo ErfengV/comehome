@@ -1,11 +1,5 @@
 package com.ac.comehome;
 
-/**
- * @program: comehome
- * @description:
- * @author: ErFeng_V
- * @create: 2021-04-18 19:44
- */
 
 
 import com.ac.comehome.handler.UdpDecoderHandler;
@@ -18,9 +12,14 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.context.annotation.Bean;
 import reactor.core.publisher.Flux;
 import reactor.netty.udp.UdpServer;
-
 import java.time.Duration;
 
+/**
+ * @program: comehome
+ * @description: UDP的启动类
+ * @author: ErFeng_V
+ * @create: 2021-04-18 19:44
+ */
 @ServletComponentScan
 @SpringBootApplication
 public class SpringUdpApp {
